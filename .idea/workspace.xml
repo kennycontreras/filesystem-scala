@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2b50589-cfc2-4fc0-a2ee-c36a433bd810" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/commands/UnknownCommand.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/files/DirEntry.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/files/Directory.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/filesystem/State.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/commands/Mkdir.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/commands/Command.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/commands/Command.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/filesystem/Filesystem.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/filesystem/Filesystem.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/commands/UnknownCommand.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/commands/UnknownCommand.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/files/Directory.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/files/Directory.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +120,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
