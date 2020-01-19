@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2b50589-cfc2-4fc0-a2ee-c36a433bd810" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/commands/Ls.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/commands/Command.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/commands/Command.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/commands/Mkdir.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/commands/Mkdir.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/files/DirEntry.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/files/DirEntry.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/files/Directory.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/files/Directory.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/commands/Command$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/commands/Command$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/commands/Mkdir.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/commands/Mkdir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/commands/UnknownCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/commands/UnknownCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/files/DirEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/files/DirEntry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/files/Directory$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/files/Directory$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/files/Directory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/files/Directory.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

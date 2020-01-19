@@ -35,6 +35,8 @@ class Mkdir(name: String) extends Command {
        */
       if(path.isEmpty) currentDirectory.addEntry(newEntry)
       else {
+        println(path)
+        println(currentDirectory.findEntry(path.head))
         /*
           currentDirectory = /a
           path = ["b"]
@@ -71,7 +73,7 @@ class Mkdir(name: String) extends Command {
     val newRoot = updateStructure(state.root, allDirsPath, newDir)
 
     // 4. find the new working directory INSTANCE given wd's full path, in the NEW directory structure
-    val newWd = newRoot.findDescendent(allDirsPath)
+    val newWd = newRoot.findDescendant(allDirsPath)
     State(newRoot, newWd)
   }
 }
